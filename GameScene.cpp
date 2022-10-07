@@ -5,6 +5,7 @@ using namespace DirectX;
 
 GameScene::GameScene()
 {
+
 }
 
 GameScene::~GameScene()
